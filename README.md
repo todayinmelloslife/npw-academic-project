@@ -11,7 +11,7 @@
 ###
 
 <br clear="both">
-
+<br>
 <p align="left">Este projeto é um grito em forma de aplicação web.  <br>Desenvolvido para a disciplina de Tópicos Especiais de Sistemas, mas com a alma da NPW:  <br>uma marca que não entrega o comum, mas transforma ideias desacreditadas em experiências digitais com identidade.</p>
 
 ###
@@ -24,7 +24,7 @@
 
 ###
 
-<h6 align="left">O foco aqui é expressar.</h6>
+<h5 align="left">O foco aqui é expressar.</h5>
 
 ###
 
